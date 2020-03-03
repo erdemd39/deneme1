@@ -1,2 +1,0 @@
-# deneme1
-test
